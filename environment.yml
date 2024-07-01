@@ -1,0 +1,15 @@
+name: 2024-icppb
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - snakemake=8.14.0
+  - pandas>=2,<3
+  - seaborn>=0.13,<1
+  - sourmash>=4.8.10,<5
+  - sourmash_plugin_branchwater
+  - sourmash_plugin_directsketch
+  - jupyterlab
+  - tqdm

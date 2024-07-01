@@ -1,0 +1,5 @@
+name,genome_filename,protein_filename
+bc16,inputs/bc16.fastq.gz,
+bc17,inputs/bc17.fastq.gz,
+bc18,inputs/bc18.fastq.gz,
+control,inputs/control.fastq.gz,
