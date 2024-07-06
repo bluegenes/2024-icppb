@@ -12,6 +12,4 @@ dependencies:
   - sourmash_plugin_branchwater
   - jupyterlab
   - tqdm
-  - pip:
-    - sourmash_plugin_directsketch
 
